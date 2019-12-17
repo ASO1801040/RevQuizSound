@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RevQuizSound</string>
+    <string name="AnswerButtonText">回答</string>
+    <string name="questionButtonText">出題</string>
+    <string name="wrongButtonText" >不正解</string>
+    <string name="correctButtonText">正解</string>
+    <string name="exciteButtonText">盛り上げる</string>
+    <string name="goToAnswerButonText">回答</string>
+</resources>
